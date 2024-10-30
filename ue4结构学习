@@ -1,0 +1,155 @@
+AncientVersion-Win64-Shipping.exe
+
+Gworld      :  ANullObjectWas
+Gname       :  ByteProperty
+GObjectArray： UObjectBaseInit
+
+Gname_offect  = 0x431BAC0
+Gworld_offect = 0x446D5E0   
+Gobject_offect = 0x4334058‬ + 0x10    
+
+
+Uworl->PersistentLevel//当前关卡0x30->0x98Tarry数组->0x130根组件->0x1c0 矩阵位置
+Uworl->UGameInstance(0x180)->0x38 Tarry LocalPlayers ->解引用一次得到第一個成員地址->0x30 APlayerController
+UObjectBase +0x18
+	FName			NamePrivate;
+	
+
+骨骼：
+ACharacter->mesh(0x280)->(0x4a0,0x4b0) 
+ACharacter->mesh(0x280)->470->1a8(骨骼名)
+
+
+引擎骨骼函数获取 ： USkinnedMeshComponent::TransformToBoneSpace 通过这个函数调用获取
+GetBoneMatrix ==   sub_235CC80
+ _OWORD *__fastcall GetBoneMatrix(void* pthis, FMatrix *a2, int BoneIdx)
+
+
+
+class FName
+
+{
+	
+	uint32 index;
+	uint32 Number
+	
+}
+
+
+
+
+
+FNameEntryHandle(FNameEntryId Id)
+	: Block(Id.ToUnstableInt() >> FNameBlockOffsetBits)  FNameBlockOffsetBits = 16
+	, Offset(Id.ToUnstableInt() & (FNameBlockOffsets - 1))  FNameBlockOffsets = 65536
+
+
+
+Resolve(FNameEntryHandle Handle) const
+	{
+		// Lock not needed
+		return *reinterpret_cast<FNameEntry*>(Blocks[Handle.Block] + Stride * Handle.Offset);
+	}
+
+
+
+
+
+
+
+
+
+class COREUOBJECT_API UObjectBaseUtility : public UObjectBase
+{
+
+		FORCEINLINE FString GetName() const
+		{
+				return GetFName().ToString();
+		}
+
+}
+
+
+class CORE_API FString
+{
+private:
+	/** Array holding the character data */
+	typedef TArray<TCHAR> DataType;
+	DataType Data;
+}
+
+class TArray
+{
+	protected:
+
+	ElementAllocatorType AllocatorInstance;
+	SizeType             ArrayNum;
+	SizeType             ArrayMax;
+}
+
+class COREUOBJECT_API UObjectBase
+{
+	
+	FORCEINLINE FName GetFName() const
+{
+	return NamePrivate;
+}
+	
+	
+}
+
+class COREUOBJECT_API UObjectBase
+{
+	virtual table //虚函数表
+	private:
+
+		/** Flags used to track and report various object states. This needs to be 8 byte aligned on 32-bit
+			platforms to reduce memory waste */
+		EObjectFlags					ObjectFlags;
+
+		/** Index into GObjectArray...very private. */
+		int32							InternalIndex;
+
+		/** Class the object belongs to. */
+		UClass*							ClassPrivate;
+
+		/** Name of this object */
+		FName							NamePrivate;//0x18
+
+		/** Object this object resides in. */
+		UObject*						OuterPrivate;
+}	
+
+class CORE_API FName
+{
+		private:
+
+			/** Index into the Names array (used to find String portion of the string/number pair used for comparison) */
+			FNameEntryId	ComparisonIndex;
+#if WITH_CASE_PRESERVING_NAME
+			/** Index into the Names array (used to find String portion of the string/number pair used for display) */
+			FNameEntryId	DisplayIndex;
+#endif // WITH_CASE_PRESERVING_NAME
+			/** Number portion of the string/number pair (stored internally as 1 more than actual, so zero'd memory will be the default, no-instance case) */
+			uint32			Number;
+}
+
+FString FName::ToString() const
+{
+	if (GetNumber() == NAME_NO_NUMBER_INTERNAL)
+	{
+		// Avoids some extra allocations in non-number case
+		return GetDisplayNameEntry()->GetPlainNameString();
+	}
+	
+	FString Out;	
+	ToString(Out);
+	return Out;
+}
+
+
+FNameEntry& Resolve(FNameEntryHandle Handle) const
+{
+	// Lock not needed
+	return *reinterpret_cast<FNameEntry*>(Blocks[Handle.Block] + Stride * Handle.Offset);
+}

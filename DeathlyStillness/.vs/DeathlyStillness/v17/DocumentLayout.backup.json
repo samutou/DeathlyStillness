@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DX11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\DX11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\enum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DX11.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\DX11.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\SDK\\SDK\\merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DeathlyStillness\\SDK\\SDK\\merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\imgui\\imgui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\BASE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC77C4A8-150E-40E2-9FAD-1ADF7C94E441}|DeathlyStillness\\DeathlyStillness.vcxproj|solutionrelative:DeathlyStillness\\BASE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DX11.cpp",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DX11.cpp",
+              "RelativeDocumentMoniker": "DeathlyStillness\\DX11.cpp",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DX11.cpp",
+              "RelativeToolTip": "DeathlyStillness\\DX11.cpp",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAHUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T01:50:46.942Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "struct.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\struct.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\struct.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\struct.h",
+              "RelativeToolTip": "DeathlyStillness\\struct.h",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T10:37:21.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "enum.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\enum.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\enum.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\enum.h",
+              "RelativeToolTip": "DeathlyStillness\\enum.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T08:29:12.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\Render.cpp",
+              "RelativeDocumentMoniker": "DeathlyStillness\\Render.cpp",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\Render.cpp*",
+              "RelativeToolTip": "DeathlyStillness\\Render.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T08:25:34.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Render.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\Render.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\Render.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\Render.h",
+              "RelativeToolTip": "DeathlyStillness\\Render.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T08:23:19.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "struct.cpp",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\struct.cpp",
+              "RelativeDocumentMoniker": "DeathlyStillness\\struct.cpp",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\struct.cpp",
+              "RelativeToolTip": "DeathlyStillness\\struct.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T08:01:26.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "engine.cpp",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\engine.cpp",
+              "RelativeDocumentMoniker": "DeathlyStillness\\engine.cpp",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\engine.cpp",
+              "RelativeToolTip": "DeathlyStillness\\engine.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAASwC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T11:32:06.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "engine.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\engine.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\engine.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\engine.h",
+              "RelativeToolTip": "DeathlyStillness\\engine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T11:29:04.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DX11.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DX11.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\DX11.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DX11.h",
+              "RelativeToolTip": "DeathlyStillness\\DX11.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T01:56:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class.cpp",
+              "DocumentMoniker": "D:\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Class.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Class.cpp",
+              "ToolTip": "D:\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Class.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Class.cpp",
+              "ViewState": "AgIAAGEMAAAAAAAAAAAAAGAMAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T01:17:30.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\SDK\\SDK\\merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\SDK\\SDK\\merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\SDK\\SDK\\merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h",
+              "RelativeToolTip": "DeathlyStillness\\SDK\\SDK\\merged__UMG_Engine_MovieScene_MovieSceneTracks_AudioMixer.h",
+              "ViewState": "AgIAAOQtAAAAAAAAAAASwPAtAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T01:48:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "class.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\class.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\class.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\class.h",
+              "RelativeToolTip": "DeathlyStillness\\class.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T02:02:39.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "class.cpp",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\class.cpp",
+              "RelativeDocumentMoniker": "DeathlyStillness\\class.cpp",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\class.cpp",
+              "RelativeToolTip": "DeathlyStillness\\class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T11:48:18.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Struct.cpp",
+              "DocumentMoniker": "D:\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Struct.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Struct.cpp",
+              "ToolTip": "D:\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Struct.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u6559\u7A0B\\2023-UE4\u9006\u5411\u96C5\u97F3\u5BAB\u7FBD\\UE4\u8D44\u6599\\01\u8D44\u6599\\DeathlyStillness-SDK\\Struct.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T01:35:57.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "imgui.cpp",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\imgui\\imgui.cpp",
+              "RelativeDocumentMoniker": "DeathlyStillness\\imgui\\imgui.cpp",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\imgui\\imgui.cpp",
+              "RelativeToolTip": "DeathlyStillness\\imgui\\imgui.cpp",
+              "ViewState": "AgIAAMgRAAAAAAAAAAAiwNQRAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T12:03:49.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BASE.h",
+              "DocumentMoniker": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\BASE.h",
+              "RelativeDocumentMoniker": "DeathlyStillness\\BASE.h",
+              "ToolTip": "D:\\Repository\\ue\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\DeathlyStillness\\BASE.h",
+              "RelativeToolTip": "DeathlyStillness\\BASE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-22T11:23:00.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
